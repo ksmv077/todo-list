@@ -1,0 +1,23 @@
+.container{
+    max-width: 100%;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+}
+
+.lii{
+    list-style: none;
+}
+
+.ch{
+    text-decoration: line-through;
+}
+
+.body{
+    background-color: aqua;
+}
+
+.lii{
+    display: flex;
+    justify-content: center;
+}
